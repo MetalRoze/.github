@@ -22,33 +22,12 @@
   <tr>
     <td>2</td>
     <td>팀원</td>
-    <td>이은진</td>
-    <td><a href="https://github.com/eunznidang">@eunznidang</td>
-  </tr>
-
-  <tr>
-    <td>3</td>
-    <td>팀원</td>
-    <td>이은주</td>
-    <td><a href="https://github.com/eunnnju">@eunnnju</td>
-  </tr>
-
-  <tr>
-    <td>4</td>
-    <td>팀원</td>
-    <td>진서연</td>
-    <td><a href="https://github.com/jjjjjinseo">@jjjjjinseo</td>
-  </tr>
-
-  <tr>
-    <td>5</td>
-    <td>팀원</td>
     <td>이상동</td>
     <td></td>
   </tr>
 
   <tr>
-    <td>6</td>
+    <td>3</td>
     <td>팀원</td>
     <td>박민기</td>
     <td></td>
@@ -56,10 +35,31 @@
 
 
   <tr>
-    <td>7</td>
+    <td>4</td>
     <td>팀원</td>
     <td>최정윤</td>
     <td></td>
+  </tr>
+  
+  <tr>
+    <td>5</td>
+    <td>팀원</td>
+    <td>이은진</td>
+    <td><a href="https://github.com/eunznidang">@eunznidang</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>팀원</td>
+    <td>이은주</td>
+    <td><a href="https://github.com/eunnnju">@eunnnju</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>팀원</td>
+    <td>진서연</td>
+    <td><a href="https://github.com/jjjjjinseo">@jjjjjinseo</td>
   </tr>
 </table>
 
