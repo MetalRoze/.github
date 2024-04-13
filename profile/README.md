@@ -1,7 +1,69 @@
 
 ### 식집사
+&nbsp;📌 환경을 지키며 식물을 키우는 애플리케이션
+&nbsp;📅 2022. 09 ~ 2022. 12
+&nbsp;🏫 소프트웨어설계
+
+<table>
+  <tr>
+    <th></th>
+    <th>직함</th>
+    <th>이름</th>
+    <th>깃허브 아이디</th>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td>팀장</td>
+    <td>한다현</td>
+    <td><a href="https://github.com/dahxxn">@dahxxn</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>팀원</td>
+    <td>이은진</td>
+    <td><a href="https://github.com/eunznidang">@eunznidang</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>팀원</td>
+    <td>이은주</td>
+    <td><a href="https://github.com/eunnnju">@eunnnju</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>팀원</td>
+    <td>진서연</td>
+    <td><a href="https://github.com/jjjjjinseo">@jjjjjinseo</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>팀원</td>
+    <td>이상동</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>팀원</td>
+    <td>박민기</td>
+    <td></td>
+  </tr>
 
 
+  <tr>
+    <td>7</td>
+    <td>팀원</td>
+    <td>최정윤</td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
 <hr>
 
 ### 동떨마켓
