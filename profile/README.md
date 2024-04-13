@@ -1,7 +1,9 @@
 
 ### 식집사
 &nbsp;📌 환경을 지키며 식물을 키우는 애플리케이션
+
 &nbsp;📅 2022. 09 ~ 2022. 12
+
 &nbsp;🏫 소프트웨어설계
 
 <table>
@@ -62,6 +64,13 @@
     <td><a href="https://github.com/jjjjjinseo">@jjjjjinseo</td>
   </tr>
 </table>
+
+<div>
+<img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/XML-34A853?style=for-the-badge">
+</div>
+
 
 <br>
 <hr>
