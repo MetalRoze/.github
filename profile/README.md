@@ -57,6 +57,6 @@
 
 <div>
 <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/XML-34A853?style=for-the-badge">
 </div>
